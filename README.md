@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="./assets/rain.gif" width="100%">
+<img src="./assets/rain.gif" width="70%">
 
 <br>
 
